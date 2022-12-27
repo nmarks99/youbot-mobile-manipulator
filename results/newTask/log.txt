@@ -1,0 +1,6 @@
+>> python3 main.py new
+Generating reference trajectory.
+Running main loop.
+Generating error plot data.
+Done.
+>>
