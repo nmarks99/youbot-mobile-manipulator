@@ -1,6 +1,0 @@
->> python3 main.py best
-Generating reference trajectory.
-Running main loop.
-Generating error plot data.
-Done.
->>

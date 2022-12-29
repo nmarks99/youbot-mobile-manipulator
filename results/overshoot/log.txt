@@ -1,6 +1,0 @@
->> python3 main.py overshoot
-Generating reference trajectory.
-Running main loop.
-Generating error plot data.
-Done.
->>
