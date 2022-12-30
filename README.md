@@ -1,7 +1,12 @@
 # ME 449 Final Capstone Project
+
 This program generates a trajectory for the youBot robot simulated in CoppelliaSim. 
 The code works by first generating a reference trajectory with the `TrajectoryGenerator`
 function.
+
+
+https://user-images.githubusercontent.com/45540813/210022069-7b420b67-0d6e-4443-a7ec-fb0e3d2b42dd.mp4
+
 
 Once a reference trajectory has been created, the program enters a loop
 which does the following:
